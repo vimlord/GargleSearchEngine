@@ -1,0 +1,69 @@
+
+body {
+    position: relative;
+    min-width: 480px;
+    font-family: Futura,Trebuchet MS,Arial,sans-serif; 
+}
+
+.searchbox {
+    width: 25%;
+    min-width: 360px;
+    margin: 8px auto;
+    padding: 8px 16px;
+    border: 1px dashed #999;
+    text-align: center;
+}
+
+#header {
+    /*padding: 25px;
+    /*height: 400px;*/
+    /*background-color: #202020/*#6184d8*/;
+    background-color: #fff;
+    /*color: #fff;*/
+    border-bottom: 1px solid #eee;
+    
+    /*max-width: 1080px*/
+}
+
+#header h1 {
+    font-size: 4em;
+    font-weight: bold;
+}
+
+#header h1 sub {
+    font-weight: normal;
+    font-size: 0.375em;
+}
+
+img.result-image {
+    max-width: 50%;
+}
+
+#header, .page-section {
+    /*max-width: 1080px;*/
+    padding: 25px calc(50% - 540px) none calc(50% - 540px);
+    margin: auto;
+}
+
+.page-section {
+    max-width: 1280px;
+}
+
+.card.search-result {
+    border: none;
+    margin: 1rem;
+}
+
+.card-title {
+    margin-bottom: 0px;
+}
+
+input, button {
+    padding: 8px;
+    margin: 8px;
+}
+
+footer {
+    text-align: center;
+}
+

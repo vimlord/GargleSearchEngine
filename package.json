@@ -1,0 +1,17 @@
+{
+  "name": "searchengine",
+  "version": "1.0.0",
+  "description": "A custom search engine created for fun",
+  "main": "web_server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Christopher Hittner",
+  "license": "GPL-3.0-or-later",
+  "dependencies": {
+    "express": "^4.17.1",
+    "handlebars": "^4.5.3",
+    "multer": "^1.4.2",
+    "request": "^2.88.0"
+  }
+}

@@ -9,7 +9,7 @@
   "author": "Christopher Hittner",
   "license": "GPL-3.0-or-later",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "handlebars": "^4.7.7",
     "multer": "^1.4.2",
     "request": "^2.88.0"
